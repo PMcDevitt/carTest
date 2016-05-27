@@ -1,0 +1,26 @@
+{
+  "name": "david",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ZedDavid@github.com/ZedDavid/My-Car-TTD-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZedDavid/My-Car-TTD-Test/issues"
+  },
+  "homepage": "https://github.com/ZedDavid/My-Car-TTD-Test#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
